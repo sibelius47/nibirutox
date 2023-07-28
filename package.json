@@ -1,0 +1,22 @@
+{
+  "name": "nibirutox",
+  "version": "1.0.0",
+  "description": "hackathon nibirutox for nibiru chain",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sibelius47/nibirutox.git"
+  },
+  "keywords": [],
+  "author": "sibelius47",
+  "license": "MIT",
+  "dependencies": {
+    "@nibiruchain/nibijs": "0.19.14"
+  },
+  "devDependencies": {
+    "ts-node": "10.9.1"
+  }
+}
